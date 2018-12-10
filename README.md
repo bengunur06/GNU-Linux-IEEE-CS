@@ -23,3 +23,31 @@ Kaynaklar
 
 * [Sanallaştırma Teknolojisi Nedir?](https://www.redhat.com/en/topics/virtualization/what-is-virtualization)
 
+### Sanal Makine Kurulumu
+* [VirtualBox indirmek için](https://www.virtualbox.org/wiki/Downloads)
+
+* [Sanal Makinede Deneyebileceğiniz Ubunutu çeşitleri](https://www.ubuntu.com/download/flavours)
+
+* [Debnian](https://www.debian.org/distrib/)
+
+* [Distrowatch.com farklı dağıtımları inceleyebileceleyebilirsiniz](https://distrowatch.com/)
+
+* [Sanal Makine Oluşturma](https://www.howtogeek.com/196060/beginner-geek-how-to-create-and-use-virtual-machines/)
+
+* [Sanal Makine Oluşturma (kaynak2)](https://blog.storagecraft.com/the-dead-simple-guide-to-installing-a-linux-virtual-machine-on-windows/)
+
+
+* [Sanal Makineler için küçük ipuçları](https://www.howtogeek.com/171228/10-virtualbox-tricks-and-advanced-features-you-should-know-about/)
+
+* [Sanal Makine Kurma (Türkçe)](http://www.yazguven.com/virtualbox-sanal-makine-olusturma/)
+
+
+* [VirtualBox Dökümantasyonu](https://www.virtualbox.org/manual/ch01.html#idm26)
+
+* [Sanallaştırma Çeşitleri(intel)](https://www.intel.com/content/www/us/en/virtualization/virtualization-technology/intel-virtualization-technology.html)
+
+* [Sanallaştırmanın Faydaları](https://software.intel.com/en-us/articles/the-advantages-of-using-virtualization-technology-in-the-enterprise)
+
+
+
+
