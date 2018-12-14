@@ -1,5 +1,10 @@
 # GNU-Linux-IEEE-CS
-Kaynaklar
+ Gnu/Linux derslerinde kullanmak için hazırladığım slaytlar ve yeni başlayanlar için bakılabilecek kaynakları paylaşıyorum .
+
+ #### slaytlarla iligi 
+ * slaytların içinde genelde anahtar kelimeler oluyor konuyu daha detaylı bir şekilde derste anlatmaya çalışıyorum .
+
+## Kaynaklar
 
 * [Unix Nedir](http://www.unix.org/what_is_unix.html)
 * [Unix101](https://fsl.fmrib.ox.ac.uk/fslcourse/unix_intro/whatis.html)
@@ -48,5 +53,26 @@ Kaynaklar
 
 * [Sanallaştırmanın Faydaları](https://software.intel.com/en-us/articles/the-advantages-of-using-virtualization-technology-in-the-enterprise)
 
+## Komutlar 
+* [Debninan GNU/Linux Eğitimi](https://www.debian.org/doc/manuals/debian-reference/ch01.en.html)
+
+* [Linux Komutları cheat sheet (tecmint)](https://www.tecmint.com/linux-commands-cheat-sheet/)
+
+* [Örneklerle Komutlar ](https://www.fastwebhost.in/blog/143-linux-commands-with-examples/)
+
+* [Örneklerle Komutlar (2)](https://www.howtoforge.com/linux-commands/)
+
+* [Örneklerle Komutlar (3)](https://www.w3resource.com/linux-system-administration/linux-commands-introduction.php)
 
 
+* [Dosya Sistemi Hiyerarşisi](https://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html)
+
+* [Kullanıcılar ,Gruplar ve Yetkiler](https://www.linode.com/docs/tools-reference/linux-users-and-groups/)
+
+* [Kullanıcılar ,Gruplar ve Yetkiler(arch wiki)](https://wiki.archlinux.org/index.php/users_and_groups)
+
+* [Unix komutları yeni başlayanlar için](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+
+* [Komut Satırı kopya kağıtları(free cheat sheets)](https://itsfoss.com/linux-commands-cheat-sheets/)
+
+* [Komut Satırı kopya kağıtları(free cheat sheets)(2)](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
